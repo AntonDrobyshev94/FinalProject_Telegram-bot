@@ -9,7 +9,7 @@ namespace TelegramApp
     public class Program
     {
         static string service = string.Empty;
-        static string token = "6413105564:AAHz72xq10vUUi15utrAD2qKzc0t1Sgpnuw";
+        static string token = "";
 
         static void Main(string[] args)
         {
